@@ -1,3 +1,8 @@
+# OS specific
+.DS_Store
+Desktop.ini
+Thumbs.db
+
 ### FMOD Studio Generated Files ###
 
 # Ignore hidden user-specific and cache folders
