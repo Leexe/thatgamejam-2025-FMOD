@@ -1,0 +1,18 @@
+### FMOD Studio Generated Files ###
+
+# Ignore hidden user-specific and cache folders
+.*/
+.cache/
+.restore/
+.user/
+.unsaved/
+.fsbcache
+
+# Log files
+fmod.log
+fmod_editor.log
+
+# Build folder (optional, depending on workflow)
+# Some teams prefer to commit built banks, while others have each member build locally.
+# If you ignore the build folder, each user must build banks locally after pulling.
+[Bb]uild/
