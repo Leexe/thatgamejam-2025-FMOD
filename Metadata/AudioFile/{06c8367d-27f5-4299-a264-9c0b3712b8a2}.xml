@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{06c8367d-27f5-4299-a264-9c0b3712b8a2}">
+		<property name="assetPath">
+			<value>Kick Land.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.98557823129251698</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a2cb2651-f813-4375-b462-1c5d30999d8e}</destination>
+		</relationship>
+	</object>
+</objects>
