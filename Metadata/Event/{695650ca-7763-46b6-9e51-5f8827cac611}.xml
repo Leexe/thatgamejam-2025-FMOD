@@ -60,7 +60,7 @@
 	<object class="MarkerTrack" id="{7d35a93c-73fb-436d-b817-e9f2355cc02b}" />
 	<object class="GroupTrack" id="{b60978ba-b19d-41de-9abd-7e50d63ae520}">
 		<relationship name="modules">
-			<destination>{ec4bed58-e4f6-4ed7-923c-d3f8867f1f22}</destination>
+			<destination>{cf008232-ef74-4d8f-9e7e-1f5648eb58b3}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{87ac51a0-247d-4f2b-920a-8dd736df6118}</destination>
@@ -68,7 +68,7 @@
 	</object>
 	<object class="Timeline" id="{377946e3-7390-412a-8717-3d4cd67a6d2a}">
 		<relationship name="modules">
-			<destination>{ec4bed58-e4f6-4ed7-923c-d3f8867f1f22}</destination>
+			<destination>{cf008232-ef74-4d8f-9e7e-1f5648eb58b3}</destination>
 		</relationship>
 		<relationship name="markers">
 			<destination>{6104ca4d-7bf8-4b14-8bfa-487c35b6ef1b}</destination>
@@ -92,17 +92,17 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{d0676599-8f63-47e0-9753-29b40d2f6f69}" />
-	<object class="SingleSound" id="{ec4bed58-e4f6-4ed7-923c-d3f8867f1f22}">
+	<object class="SingleSound" id="{cf008232-ef74-4d8f-9e7e-1f5648eb58b3}">
 		<property name="length">
-			<value>87.47768707482993</value>
+			<value>101.14285714285714</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{e1286ff9-e64b-4cb3-a1c1-92bf839145d7}</destination>
+			<destination>{011f4fc8-e94a-4e11-83a2-e2f2ebec84ba}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{87ac51a0-247d-4f2b-920a-8dd736df6118}">
 		<property name="volume">
-			<value>-8</value>
+			<value>-7</value>
 		</property>
 		<property name="name">
 			<value>Audio 1</value>
@@ -133,10 +133,10 @@
 	</object>
 	<object class="LoopRegion" id="{96dee2f9-ff89-4d7c-9769-ea016619b595}">
 		<property name="position">
-			<value>3.4285625</value>
+			<value>12</value>
 		</property>
 		<property name="length">
-			<value>84.049124574829918</value>
+			<value>84</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{377946e3-7390-412a-8717-3d4cd67a6d2a}</destination>
