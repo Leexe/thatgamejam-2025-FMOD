@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{8763679c-811a-4fca-b903-2c192bb859ed}">
+		<property name="assetPath">
+			<value>Title Reveal.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.2634013605442176</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a2cb2651-f813-4375-b462-1c5d30999d8e}</destination>
+		</relationship>
+	</object>
+</objects>

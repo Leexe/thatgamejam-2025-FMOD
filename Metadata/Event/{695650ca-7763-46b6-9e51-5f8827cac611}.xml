@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{695650ca-7763-46b6-9e51-5f8827cac611}">
 		<property name="name">
-			<value>Real Title</value>
+			<value>Fight Theme</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{14120d9f-0242-4bc2-94ef-d09cb22675be}</destination>
+			<destination>{62c9d689-c251-466f-9fd5-6df18691fbb7}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{98a84099-2cc9-486e-aede-cadf40e0f7f6}</destination>
